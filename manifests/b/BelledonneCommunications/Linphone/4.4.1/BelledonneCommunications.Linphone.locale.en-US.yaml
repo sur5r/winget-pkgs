@@ -1,0 +1,23 @@
+PackageIdentifier: BelledonneCommunications.Linphone
+PackageVersion: 4.4.1
+PackageLocale: en-US
+Publisher: Belledonne Communications
+# PublisherUrl:
+# PublisherSupportUrl:
+# PrivacyUrl:
+# Author:
+PackageName: Linphone
+# PackageUrl:
+License: GNU General Public License, Version 2
+# LicenseUrl:
+# Copyright:
+# CopyrightUrl:
+ShortDescription: Open source VoIP SIP softphone
+# Description:
+# Moniker:
+# Tags:
+# Agreements:
+# ReleaseNotes:
+# ReleaseNotesUrl:
+ManifestType: defaultLocale
+ManifestVersion: 1.1.0

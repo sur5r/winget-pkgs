@@ -1,0 +1,10 @@
+PackageIdentifier: BelledonneCommunications.Linphone
+PackageVersion: 4.4.1
+MinimumOSVersion: 10.0.0.0
+InstallerType: nullsoft
+Installers:
+- Architecture: x64
+  InstallerUrl: https://www.linphone.org/releases/windows/app/Linphone-4.4.1-win64.exe
+  InstallerSha256: 699EDF2BFAE2ACC09059AA336C62F21D0C459D896949FD69A61EC898723C663A
+ManifestType: installer
+ManifestVersion: 1.1.0
